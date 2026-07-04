@@ -1,0 +1,7 @@
+Automation Script Log
+=====================
+sample_files\file1.txt created at 2026-07-04 15:10:47.835255
+sample_files\file2.txt created at 2026-07-04 15:10:47.835670
+sample_files\file3.txt created at 2026-07-04 15:10:47.836126
+sample_files\file4.txt created at 2026-07-04 15:10:47.836616
+sample_files\file5.txt created at 2026-07-04 15:10:47.837109
